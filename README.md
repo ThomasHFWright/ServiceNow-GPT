@@ -18,13 +18,13 @@ These instructions will help you set up the ChatGPT ServiceNow Chatbot in your S
 
 - A ServiceNow non-production instance with administrative access
 - Access to App Engine Studio (AES)
-- An API key from [OpenAI](https://beta.openai.com/signup/) to access the ChatGPT API
+- An API key from [OpenAI](https://platform.openai.com/signup) to access the ChatGPT API
 - A Git repository with read and write access for the ChatGPT ServiceNow Chatbot project
 
 ### Installation
 
-1. Ensure your ServiceNow instance and Git repository meet the integration requirements as described in the [official documentation](https://docs.servicenow.com/bundle/utah-release-notes/page/app-engine-studio/source-control-integration.html).
-2. Link your ChatGPT ServiceNow Chatbot application or application-customization to the Git Source Control repository following the instructions in the [official documentation](https://docs.servicenow.com/bundle/utah-release-notes/page/app-engine-studio/link-an-application-to-source-control.html).
+1. Ensure your ServiceNow instance and Git repository meet the integration requirements as described in the [official documentation]([https://docs.servicenow.com/bundle/utah-release-notes/page/app-engine-studio/source-control-integration.html](https://docs.servicenow.com/bundle/utah-application-development/page/build/app-engine-studio/concept/aes-source-control-integration.html)).
+2. Link your ChatGPT ServiceNow Chatbot application or application-customization to the Git Source Control repository following the instructions in the [official documentation]([https://docs.servicenow.com/bundle/utah-release-notes/page/app-engine-studio/link-an-application-to-source-control.html](https://docs.servicenow.com/bundle/utah-application-development/page/build/app-engine-studio/concept/aes-source-control-integration.html)).
 3. Import the ChatGPT ServiceNow Chatbot application from the Git repository to your ServiceNow instance using App Engine Studio.
 
 ### Configuration
