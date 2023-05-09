@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="DELETE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>0</auth_code_lifespan>
+        <auth_url>https://github.com/login/oauth/authorize</auth_url>
+        <certificate_url/>
+        <client_id>073f4925ae84cf62d559</client_id>
+        <client_secret>﷞﷟﷒ea4ee78b47022110212a23dbd36d432d﷬﷔1﷬﷭W9XVJYPvCvEGJ2vuEmzDtQ==bpjhX8szxRGXxWWV_LLmV4LZTIBByxGQcUCLkH2fKn4Y7tXoTGgwcTUqZ0yqMo9EScRpQwj1ehg=﷮﷯</client_secret>
+        <client_uuid>b3ea4e4047722110212a23dbd36d43d8</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>authorization_code</default_grant_type>
+        <id_token_lifespan>0</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>0</message_signature_lifespan>
+        <mobile_client>false</mobile_client>
+        <name>ServiceNow GPT</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://dev56181.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt>0</salt>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 15:11:16</sys_created_on>
+        <sys_id>37ea4e4047722110212a23dbd36d43d8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>ServiceNow GPT</sys_name>
+        <sys_package display_value="ServiceNow GPT" source="x_782402_service_0">e4c5420c47322110212a23dbd36d43ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow GPT">e4c5420c47322110212a23dbd36d43ac</sys_scope>
+        <sys_update_name>oauth_entity_37ea4e4047722110212a23dbd36d43d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 15:18:35</sys_updated_on>
+        <token_url>https://github.com/login/oauth/access_token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceNow GPT">e4c5420c47322110212a23dbd36d43ac</application>
+        <file_path/>
+        <instance_id>321d323bdb511740ff27d5b0cf961911</instance_id>
+        <instance_name>dev56181</instance_name>
+        <name>oauth_entity_37ea4e4047722110212a23dbd36d43d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity"><oauth_entity action="INSERT_OR_UPDATE"><access>public</access><access_token_lifespan>1800</access_token_lifespan><active>true</active><auth_code_lifespan>0</auth_code_lifespan><auth_url>https://github.com/login/oauth/authorize</auth_url><certificate_url/><client_id>073f4925ae84cf62d559</client_id><client_secret>﷞﷟﷒ea4ee78b47022110212a23dbd36d432d﷬﷔1﷬﷭W9XVJYPvCvEGJ2vuEmzDtQ==bpjhX8szxRGXxWWV_LLmV4LZTIBByxGQcUCLkH2fKn4Y7tXoTGgwcTUqZ0yqMo9EScRpQwj1ehg=﷮﷯</client_secret><client_uuid>b3ea4e4047722110212a23dbd36d43d8</client_uuid><code_challenge_method>S256</code_challenge_method><comments/><default_grant_type>authorization_code</default_grant_type><id_token_lifespan>0</id_token_lifespan><logo_url/><message_signature_lifespan>0</message_signature_lifespan><mobile_client>false</mobile_client><name>ServiceNow GPT</name><oauth_api_script/><protocol_name/><public_client>false</public_client><redirect_url>https://dev56181.service-now.com/oauth_redirect.do</redirect_url><refresh_token_lifespan>8640000</refresh_token_lifespan><refresh_token_url/><restricted_binding>false</restricted_binding><revoke_token_url/><salt>0</salt><send_client_credentials_as>request_body_parameter</send_client_credentials_as><skip_authorize>false</skip_authorize><sys_class_name>oauth_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-09 15:11:16</sys_created_on><sys_id>37ea4e4047722110212a23dbd36d43d8</sys_id><sys_mod_count>3</sys_mod_count><sys_name>ServiceNow GPT</sys_name><sys_package display_value="ServiceNow GPT" source="x_782402_service_0">e4c5420c47322110212a23dbd36d43ac</sys_package><sys_policy/><sys_scope display_value="ServiceNow GPT">e4c5420c47322110212a23dbd36d43ac</sys_scope><sys_update_name>oauth_entity_37ea4e4047722110212a23dbd36d43d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-09 15:18:35</sys_updated_on><token_url>https://github.com/login/oauth/access_token</token_url><type>oauth_provider</type><use_mutual_auth>false</use_mutual_auth><user/></oauth_entity></record_update>]]></payload>
+        <payload_hash>1497027608</payload_hash>
+        <record_name>ServiceNow GPT</record_name>
+        <reverted_from/>
+        <source>e4c5420c47322110212a23dbd36d43ae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 15:18:35</sys_created_on>
+        <sys_id>820e86c047722110212a23dbd36d431a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1880117c8c50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 15:18:35</sys_updated_on>
+        <type>Application Registries</type>
+        <update_guid>8a0e86c08c722110c0754109ef3d8719</update_guid>
+        <update_guid_history>8a0e86c08c722110c0754109ef3d8719:1497027608,60fd8a04bc722110b9422b6c9d19aac6:389007398,118dc20431722110cb52536049a4443e:1497027608,7a5c82c0b9722110fefa6bb259c7c492:-1525877997</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ServiceNow GPT">479e464447722110212a23dbd36d436a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 15:21:07</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity">oauth_entity</sys_db_object>
+        <sys_id>06535897712d441f802d492695dfede1</sys_id>
+        <sys_metadata>37ea4e4047722110212a23dbd36d43d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ServiceNow GPT</sys_name>
+        <sys_package display_value="ServiceNow GPT" source="x_782402_service_0">e4c5420c47322110212a23dbd36d43ac</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow GPT">e4c5420c47322110212a23dbd36d43ac</sys_scope>
+        <sys_scope_delete display_value="">261922690a3d47c8872dbd9ef40714f9</sys_scope_delete>
+        <sys_update_name>oauth_entity_37ea4e4047722110212a23dbd36d43d8</sys_update_name>
+        <sys_update_version display_value="oauth_entity_37ea4e4047722110212a23dbd36d43d8">820e86c047722110212a23dbd36d431a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 15:21:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

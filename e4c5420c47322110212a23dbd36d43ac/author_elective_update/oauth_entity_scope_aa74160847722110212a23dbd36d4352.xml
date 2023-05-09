@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_scope">
+    <oauth_entity_scope action="DELETE">
+        <in_default_profile>false</in_default_profile>
+        <name>scope</name>
+        <oauth_entity display_value="ServiceNow GPT">82be824447722110212a23dbd36d4320</oauth_entity>
+        <oauth_entity_scope>repo</oauth_entity_scope>
+        <sys_class_name>oauth_entity_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 15:47:16</sys_created_on>
+        <sys_id>aa74160847722110212a23dbd36d4352</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scope</sys_name>
+        <sys_package display_value="ServiceNow GPT" source="x_782402_service_0">e4c5420c47322110212a23dbd36d43ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow GPT">e4c5420c47322110212a23dbd36d43ac</sys_scope>
+        <sys_update_name>oauth_entity_scope_aa74160847722110212a23dbd36d4352</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 15:47:16</sys_updated_on>
+    </oauth_entity_scope>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceNow GPT">e4c5420c47322110212a23dbd36d43ac</application>
+        <file_path/>
+        <instance_id>321d323bdb511740ff27d5b0cf961911</instance_id>
+        <instance_name>dev56181</instance_name>
+        <name>oauth_entity_scope_aa74160847722110212a23dbd36d4352</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_scope"><oauth_entity_scope action="INSERT_OR_UPDATE"><in_default_profile>false</in_default_profile><name>scope</name><oauth_entity display_value="ServiceNow GPT">82be824447722110212a23dbd36d4320</oauth_entity><oauth_entity_scope>repo</oauth_entity_scope><sys_class_name>oauth_entity_scope</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-09 15:47:16</sys_created_on><sys_id>aa74160847722110212a23dbd36d4352</sys_id><sys_mod_count>0</sys_mod_count><sys_name>scope</sys_name><sys_package display_value="ServiceNow GPT" source="x_782402_service_0">e4c5420c47322110212a23dbd36d43ac</sys_package><sys_policy/><sys_scope display_value="ServiceNow GPT">e4c5420c47322110212a23dbd36d43ac</sys_scope><sys_update_name>oauth_entity_scope_aa74160847722110212a23dbd36d4352</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-09 15:47:16</sys_updated_on></oauth_entity_scope></record_update>]]></payload>
+        <payload_hash>336757992</payload_hash>
+        <record_name>scope</record_name>
+        <reverted_from/>
+        <source>e4c5420c47322110212a23dbd36d43ae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 15:47:16</sys_created_on>
+        <sys_id>0e9492c847722110212a23dbd36d43ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18801320af60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 15:47:16</sys_updated_on>
+        <type>OAuth Entity Scope</type>
+        <update_guid>429492c8e07221101122f3fc0e982aed</update_guid>
+        <update_guid_history>429492c8e07221101122f3fc0e982aed:336757992</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="scope">9d671e4c47722110212a23dbd36d43e2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 15:59:30</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity_scope">oauth_entity_scope</sys_db_object>
+        <sys_id>55ddcb413f2f4ad2b41787dc8dadec04</sys_id>
+        <sys_metadata>aa74160847722110212a23dbd36d4352</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scope</sys_name>
+        <sys_package display_value="ServiceNow GPT" source="x_782402_service_0">e4c5420c47322110212a23dbd36d43ac</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow GPT">e4c5420c47322110212a23dbd36d43ac</sys_scope>
+        <sys_scope_delete display_value="">261922690a3d47c8872dbd9ef40714f9</sys_scope_delete>
+        <sys_update_name>oauth_entity_scope_aa74160847722110212a23dbd36d4352</sys_update_name>
+        <sys_update_version display_value="oauth_entity_scope_aa74160847722110212a23dbd36d4352">0e9492c847722110212a23dbd36d43ed</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 15:59:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
