@@ -23,8 +23,8 @@ These instructions will help you set up the ChatGPT ServiceNow Chatbot in your S
 
 ### Installation
 
-1. Ensure your ServiceNow instance and Git repository meet the integration requirements as described in the [official documentation](https://docs.servicenow.com/bundle/utah-release-notes/page/app-engine-studio/source-control-integration.html](https://docs.servicenow.com/bundle/utah-application-development/page/build/app-engine-studio/concept/aes-source-control-integration.html)).
-2. Link your ChatGPT ServiceNow Chatbot application or application-customization to the Git Source Control repository following the instructions in the [official documentation](https://docs.servicenow.com/bundle/utah-release-notes/page/app-engine-studio/link-an-application-to-source-control.html](https://docs.servicenow.com/bundle/utah-application-development/page/build/app-engine-studio/concept/aes-source-control-integration.html)).
+1. Ensure your ServiceNow instance and Git repository meet the integration requirements as described in the [official documentation](https://docs.servicenow.com/bundle/utah-application-development/page/build/app-engine-studio/concept/aes-source-control-integration.html).
+2. Link your ChatGPT ServiceNow Chatbot application or application-customization to the Git Source Control repository following the instructions in the [official documentation](https://docs.servicenow.com/bundle/utah-application-development/page/build/app-engine-studio/concept/aes-source-control-integration.html).
 3. Import the ChatGPT ServiceNow Chatbot application from the Git repository to your ServiceNow instance using App Engine Studio.
 
 ### Configuration
